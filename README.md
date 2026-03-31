@@ -76,7 +76,7 @@
     </a>
 
 </p>
-## 📊 Statistics
+### 📊 Statistics
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=KarlitoAL&theme=tokyonight"/>
 </p>
