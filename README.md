@@ -23,10 +23,6 @@
 ![Irricad](https://img.shields.io/badge/-Irricad-00AEEF?logo=water&logoColor=white)
 ![IrrigaCAD](https://img.shields.io/badge/-IrrigaCAD-009688?logo=water&logoColor=white)
 
-
-<br/>
-<br/>
-
 ## 🌐 Connect with me  
 <p align="left"> 
     <a href="https://www.youtube.com/@irrigeotech7676?sub_confirmation=1">
@@ -80,11 +76,7 @@
     </a>
 
 </p>
-
-<br/>
-<br/>
-
-### 📊 Statistics
+## 📊 Statistics
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=KarlitoAL&theme=tokyonight"/>
 </p>
