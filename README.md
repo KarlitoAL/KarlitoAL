@@ -74,8 +74,8 @@
             src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge&labelColor=A33224"
         />
     </a>
-
 </p>
+
 ## 📊 Statistics
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=KarlitoAL&theme=tokyonight"/>
